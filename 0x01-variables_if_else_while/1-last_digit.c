@@ -1,9 +1,12 @@
 #include <stdlib.h>
-
 #include <time.h>
+#include <stdio.h>
 
-/* main -> assign a eandom number to the variable n */
-/* The last digit of the number stored in the variable n */
+/**
+*main - Entry point
+*Description: last digit
+*Return: always 0
+*/
 int main(void)
 
 {
