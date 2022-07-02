@@ -1,4 +1,4 @@
-#include <std.h>
+#include <stdio.h>
 /**
  * main - Prints alpha except for q and e.
  *
