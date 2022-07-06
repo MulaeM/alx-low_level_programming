@@ -2,6 +2,5 @@
 #define MAIN_H
 
 int _putchar(char);
-void oputchar(void);
 
 #endif
