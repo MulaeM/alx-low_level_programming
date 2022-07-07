@@ -11,5 +11,7 @@ void print_square(int size);
 int _isupper(int x);
 int _isdigit(int x);
 int _isdigit(int c);
+int mul(int a, int b);
+int mul(int x, int y);
 
 #endif
