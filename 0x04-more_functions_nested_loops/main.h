@@ -13,5 +13,6 @@ int _isdigit(int x);
 int _isdigit(int c);
 int mul(int a, int b);
 int mul(int x, int y);
+int main(void);
 
 #endif
