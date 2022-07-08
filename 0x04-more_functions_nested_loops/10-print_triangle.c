@@ -3,7 +3,7 @@
 /**
  * print_triangle - check for a digit
  * @size : integer type
- * Return:void
+ * Return: Always 0
  */
 
 void print_triangle(int size)
