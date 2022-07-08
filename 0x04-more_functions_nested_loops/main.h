@@ -14,5 +14,6 @@ int _isdigit(int c);
 int mul(int a, int b);
 int mul(int x, int y);
 int main(void);
+void print_triangle(int size);
 
 #endif
