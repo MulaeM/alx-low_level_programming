@@ -5,12 +5,12 @@
  * print_number - prints int with putchar
  * @n: takes number, hello
  *
- *Return: void
+ * Return: Always 0
  */
 
 void print_number(int n)
 {
-	unsigned int m:
+	unsigned int m;
 
 	if (n < 0)
 	{
