@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_rrev - prints a reverse string
+ * print_rev - prints a reverse string
  * @s: This an input string
  */
 
@@ -13,8 +13,6 @@ void print_rev(char *s)
 		for (index = index - 1; s[index] != '\0'; index--)
 		{
 			_putchar(s[index]);
-
 		}
-
 	_putchar('\n');
 }
