@@ -15,11 +15,13 @@ while (s[a])
 {
 	a++;
 }
-for (b = 0; b < a; b++)
+for (b = 0; b <= a; b++)
 {
 	if (c == s[b])
+	{
 		s += b;
 	return (s);
+	}
 }
 return ('\0');
 }
