@@ -15,13 +15,8 @@ int isInteger(const char *s)
 	{
 
 		if (s[i] < '0' || s[i] > '9')
-
 		return (1);
-
 		i++;
-
 	}
-
 	return (0);
-
 }
